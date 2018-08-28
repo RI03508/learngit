@@ -3,5 +3,4 @@ this is a new file,
 hello,I'm modifying this file.
 hi,i'm coming!
 now,i'm learning repositoty.
-git tracks changes.
-
+git tracks changes of files.
